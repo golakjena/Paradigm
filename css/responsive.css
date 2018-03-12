@@ -1,0 +1,173 @@
+@media (min-width:320px) and (max-width:767px){
+	.header{ width: 100%; position: fixed; left: 0; top: 0; z-index: 999; box-shadow: 0 0 10px rgba(0,0,0,0.3); -moz-box-shadow: 0 0 10px rgba(0,0,0,0.3); -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.3); padding: 10px 0;}
+	.mLogo{ display: inline-block; }
+	.mLogo a img{ width: 64px; }
+	.btnMobileNav{ display: block; top: 25px;}
+	.topNav li.logo{ display: none; }
+	.topNav{ width: 320px; height: 100%; position: fixed; right: -320px; top: 0; background: #18435f; padding: 50px 0 0 0;}
+	.topNav li{ display: block; margin:0; font-size: 16px;}
+	.topNav li a{ color: #fff; padding: 10px 0;}
+
+	.homeSlider{ margin:68px 0 0 0; }
+	.txtBanner{ font-size: 18px; line-height: 26px; }
+	.rsDefault.rsHor .rsArrowLeft{ left: 10px; background-size: 20px;}
+	.rsDefault.rsHor .rsArrowRight{ right: 0; background-size: 20px;}
+	.rsNav.rsBullets{ bottom: 6px; }
+	.rsDefault .rsBullet span{ width: 10px; height: 10px; border:2px rgba(255,255,255,0.6) solid; }
+	.rsDefault .rsBullet{ margin:0 2px; }
+	.promo{ padding: 30px 10px; }
+	.promo h4{ font-size: 20px; line-height: 30px; }
+	.dvAboutUs{ padding: 30px 10px; }
+	.dvAboutUs h3{ font-size: 30px; padding: 0 0 20px 0; }
+	.dvAboutUs h4{ font-size: 18px; line-height: 28px; }
+	.aboutDescOuter{ padding: 30px 0 0 0; }
+	.bxDescRow{ margin:0; }
+	.bxDesc{ width: 100%; font-size: 16px; padding: 10px; line-height: 26px; float: left; margin:0 0 15px 0;}
+	.homeContent{ padding: 30px 10px; }
+	.homeContent h3{ font-size: 24px; line-height: 30px; padding: 0 0 20px 0;}
+	.homeContent p{ font-size: 16px; line-height: 28px; padding: 0 0 30px 0;}
+	.dvPortfolio{ padding: 30px 0 0 0; }
+	.dvPortfolio h3{ font-size: 24px; padding: 0 0 30px 0;}
+	.dvPortfolioLeft{ width: 100%; padding: 0;}
+	.pfDesc{ font-size: 16px; line-height: 22px; padding: 15px; }
+	.dvPortfolioRight{ width: 100%; float: left; margin:0 0 10px 0;}
+	.dvPF{ margin:0; }
+	.dvGetinTouch{ padding: 30px 10px 10px 10px; }
+	.dvGetinTouch h3{ font-size: 24px; padding: 0 0 30px 0; }
+	.dvGetinTouch h4{ font-size: 18px; line-height: 28px; padding: 0 0 30px 0; }
+	.address{ text-align: left; }
+	.address li{ margin:0 0 15px 0; font-size: 15px; }
+
+	.mainHeader{ padding: 25px 0; margin:68px 0 0 0;}
+	.mainHeader h2{ font-size: 32px;}
+	.aboutOuter{ padding: 30px 10px; }
+	.aboutCont{ padding: 0 0 30px 0; }
+	.aboutCont h3{ font-size: 18px; line-height: 28px; }
+	.aboutRow{ margin:0; }
+	.bxAbout{ font-size: 16px; padding: 10px; line-height: 26px; width: 100%; float: left; margin:0 0 15px 0; }
+
+	.dvAssetManagement{ padding: 30px 10px; }
+	.dvAssetManagement h3{ font-size: 18px; line-height: 28px; padding: 0 0 30px 0;}
+	.dvAssetManagement h4{ font-size: 18px; line-height: 28px; padding: 0 0 30px 0;}
+	.amRow{ margin: 0; padding: 0 20px; }
+	.bxAM{ font-size: 16px; line-height: 30px; width: 100%; float: left; background-size: 40px !important; padding: 0 0 10px 62px; background-position: 0 10px !important; min-height: 66px; margin:0 0 15px 0;}
+	.bxAM.determine{ background: url(../images/icon_determine.png) 0 0 no-repeat;}
+	.bxAM.strategic{ background: url(../images/icon_strategic.png) 0 0 no-repeat;}
+	.bxAM.acquire{ background: url(../images/icon_aquire.png) 0 0 no-repeat;}
+	.bxAM.monitor{ background: url(../images/icon_monitor.png) 0 0 no-repeat;}
+	.bxAM.asset{ background: url(../images/icon_assets.png) 0 0 no-repeat;}
+
+	.dvOperationalExpertise{ padding: 30px 10px 1px 10px; }
+	.dvOperationalExpertise h3{ font-size: 24px; }
+	.dvOperationalExpertise h4{ font-size: 18px; line-height: 28px; margin:0 0 30px 0;}
+	.oeRow{ margin: 0; padding: 0 20px;}
+	
+	.bxOE{ width: 100%; float: left; font-size: 16px; line-height: 30px; background-size: 40px !important; background-position: 0 10px !important; min-height: auto; margin:0 0 15px 0;}
+	.bxOE span{ padding: 0 0 0 60px; }
+	.dvHotelManagement{ padding: 30px 10px; }
+	.dvHotelManagement h3{ font-size: 24px; }
+	.dvHotelManagement h4{ font-size: 18px; line-height: 28px; margin:0 0 30px 0; }
+	.hmRow{ margin:0; padding: 0 20px; }
+	.bxHM{ width: 100%; float: left; margin:0 0 15px 0; background-size: 40px !important; background-position: 0 10px !important;}
+	.bxHM h5{ font-size: 20px; padding: 0 0 0 60px; }
+	.bxHM p{ font-size: 16px; line-height: 22px; padding: 0 0 0 60px;}
+
+	.pfImg{ width: 100%; }
+	.pfTxt{ width: 100%; float: left; padding: 30px; }
+	.pfTxt p{ font-size: 16px; line-height: 26px;}
+	.pfTxt h4{ font-size: 20px; line-height: 26px; }
+	.pfTxt h5{ font-size: 18px; line-height: 28px; }
+
+	#changeOrder{ display: table; }
+	#changeOrder .pfTxt{ display: table-footer-group; float: none;}
+	#changeOrder .pfImg{ display: table-header-group; float: none;}
+	.orderCont{ padding: 30px; }
+	.dvDevelopment{ padding: 30px 10px; }
+	.dvDevelopment h3{ font-size: 24px; line-height: 30px; padding: 0 0 30px 0; }
+	.bxDev{ width: 100%; float: left; margin:0 0 15px 0; padding: 15px; font-size: 20px;}
+	.bxDev span{ font-size: 20px; }
+
+	.dvPropertyAcquisition{ padding: 30px 10px; }
+	.dvPropertyAcquisition h3{ font-size: 24px; line-height: 30px; padding: 0 0 30px 0; }
+	.paRow{ margin:0; padding: 0 20px; }
+	.bxPA{ font-size: 16px; line-height: 30px; width: 100%; float: left; background-size: 40px !important; padding: 0 0 10px 62px; background-position: 0 0 !important; min-height: auto; margin:0 0 20px 0;}
+
+	.dvCareers{ padding: 30px 15px;}
+	.dvCareers h3{ font-size: 18px; line-height: 30px;}
+	
+	.GetinTouchCont{ padding: 30px 15px;}
+	.GetinTouchCont h3{ font-size: 18px; line-height: 30px;}
+
+	.footer{ padding: 30px 15px; }
+	.fooNav{ display: none; }
+	.fooLogo{ margin: 0 0 10px 0; }
+	.copyright{ font-size: 12px; }
+	.designedby{ font-size: 12px; }
+}
+
+@media (min-width:768px) and (max-width:1024px){
+	.header{ width: 100%; position: fixed; left: 0; top: 0; z-index: 999; box-shadow: 0 0 10px rgba(0,0,0,0.3); -moz-box-shadow: 0 0 10px rgba(0,0,0,0.3); -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.3);}
+	.mLogo{ display: inline-block; }
+	.btnMobileNav{ display: block; }
+	.topNav li.logo{ display: none; }
+	.topNav{ width: 320px; height: 100%; position: fixed; right: -320px; top: 0; background: #18435f; padding: 100px 0 0 0;}
+	.topNav li{ display: block; margin:0 0 10px 0;}
+	.topNav li a{ color: #fff; padding: 10px 0;}
+
+	.homeSlider{ margin:106px 0 0 0; }
+	.txtBanner{ font-size: 46px; line-height: 52px; }
+	.promo{ padding: 50px 30px; }
+	.promo h4{ font-size: 32px; line-height: 46px; }
+	.dvAboutUs{ padding: 50px 30px; }
+	.bxDesc{ font-size: 20px; padding: 15px; line-height: 28px; }
+	.homeContent{ padding: 50px 30px; }
+	.homeContent h3{ font-size: 36px; line-height: 40px; }
+	.homeContent p{ font-size: 24px; line-height: 36px; }
+	.dvPortfolio h3{ font-size: 36px; }
+	.pfDesc{ font-size: 18px; line-height: 22px; padding: 15px; }
+	.dvPortfolioRight{ width: 39%; }
+	.dvGetinTouch{ padding: 50px 30px; }
+	.address li{ margin:0 30px 30px 30px; }
+
+	.mainHeader{ padding: 40px 0; margin:106px 0 0 0;}
+	.aboutOuter{ padding: 50px 30px; }
+	.aboutCont{ padding: 0 0 50px 0; }
+	.aboutCont h3{ font-size: 24px; line-height: 36px; }
+	.bxAbout{ font-size: 20px; padding: 15px; line-height: 28px; }
+
+	.dvAssetManagement{ padding: 50px 30px; }
+	.dvAssetManagement h3{ font-size: 24px; line-height: 36px; padding: 0 0 50px 0;}
+	.dvAssetManagement h4{ font-size: 24px; line-height: 36px; padding: 0 0 50px 0;}
+	.bxAM{ font-size: 22px; line-height: 34px;}
+	.bxAM.determine{ background: url(../images/icon_determine.png) 0 0 no-repeat;}
+	.bxAM.strategic{ background: url(../images/icon_strategic.png) 0 0 no-repeat;}
+	.bxAM.acquire{ background: url(../images/icon_aquire.png) 0 0 no-repeat;}
+	.bxAM.monitor{ background: url(../images/icon_monitor.png) 0 0 no-repeat;}
+	.bxAM.asset{ background: url(../images/icon_assets.png) 0 0 no-repeat;}
+
+	.dvOperationalExpertise{ padding: 50px 30px; }
+	.bxOE{ font-size: 24px; line-height: 32px; }
+	.dvHotelManagement{ padding: 50px 30px; }
+	.bxHM h5{ font-size: 24px; }
+	.bxHM p{ font-size: 18px; line-height: 26px; }
+
+	.pfImg{ width: 100%; }
+	.pfTxt{ width: 100%; float: left; padding: 30px; }
+
+	#changeOrder{ display: table; }
+	#changeOrder .pfTxt{ display: table-footer-group; float: none;}
+	#changeOrder .pfImg{ display: table-header-group; float: none;}
+	.orderCont{ padding: 30px; }
+	.dvDevelopment{ padding: 50px 30px; }
+
+	.dvPropertyAcquisition{ padding: 50px 30px; }
+	.dvPropertyAcquisition h3{ padding: 0 0 50px 0; }
+	.bxPA{ font-size: 24px; line-height: 32px; }
+	
+	.dvCareers{ padding: 50px 30px;}
+	.GetinTouchCont{ padding: 50px 30px;}
+
+	.footer{ padding: 30px 15px; }
+	.fooNav{ display: none; }
+	.fooLogo{ margin: 0 0 10px 0; }
+}
